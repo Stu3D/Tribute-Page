@@ -41,7 +41,7 @@ ul li::marker{
  <body>     
 <div id="list">
     <ul>
-        <li>Turkey</li>
+        <li>BURGER</li>
         <li>Banana</li>
         <li>Blueberries</li>
     </ul>
