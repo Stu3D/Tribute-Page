@@ -11,24 +11,32 @@
     border-style: solid;
     border-width: 10px
 }
+
 #img-dev{
     background-color: hotpink;
+    border-style: solid;
 }
 #img-caption{
     background-color: indigo;
+    border-style: solid;
 }
-#Tribute Link{
+#Tribute-Link{
     background-color: lavenderblush;
+    border-style: solid;
 }
 body{
     background-color: lightblue;
+    border-style: solid;
 }
 h1{
     background-color: lightseagreen;
+    border-style: solid;
 }
 #sec1{
     background-color: maroon;
+    border-style: solid;
 }
 #sec2{
     background-color: mediumseagreen;
+    border-style: solid;
 }
