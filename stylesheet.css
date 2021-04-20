@@ -1,4 +1,8 @@
-main{
-    background-color: black;
-    font-text: white;
+#main{
+    background-color: hsl(260,50%,40%);
+    }
+#title{
+    font-size: 50px;
+    font-color: rgb(85, 191, 64);
+    align-self: center;
 }

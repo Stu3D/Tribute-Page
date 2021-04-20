@@ -1,6 +1,5 @@
-<!-- Must declare document type to ensure the gen of HTML is compatible with all browsers-->
 <!DOCTYPE html>
-
+<html>
 <main id="main">
      <header id="title">
      <link rel="stylesheet" href="stylesheet.css">
@@ -16,4 +15,4 @@
           <section></section>
      </body>
 </main> 
-
+</html>
