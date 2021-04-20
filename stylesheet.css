@@ -1,8 +1,13 @@
 #main{
-    background-color: hsl(260,50%,40%);
-    }
+    border-style: solid;
+    border-width: 10px;
+    width: auto;
+    height: 100px;
+} 
 #title{
     font-size: 50px;
-    font-color: rgb(85, 191, 64);
+    color: rgb(85, 191, 64);
     align-self: center;
+    border-style: solid;
+    border-width: 10px
 }
