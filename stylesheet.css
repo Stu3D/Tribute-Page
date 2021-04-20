@@ -11,3 +11,24 @@
     border-style: solid;
     border-width: 10px
 }
+#img-dev{
+    background-color: hotpink;
+}
+#img-caption{
+    background-color: indigo;
+}
+#Tribute Link{
+    background-color: lavenderblush;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    background-color: lightseagreen;
+}
+#sec1{
+    background-color: maroon;
+}
+#sec2{
+    background-color: mediumseagreen;
+}
